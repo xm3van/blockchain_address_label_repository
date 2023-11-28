@@ -11,6 +11,7 @@ This repository is dedicated to the curation and documentation of datasets and A
 - `README.md`: Provides an overview of the repository, including its purpose, how to navigate the datasets, and instructions for using the APIs.
 - `DATASETS.md`: Lists all the static datasets available with descriptions, metadata, and download links.
 - `API_DOCS.md`: Detailed documentation for all the API endpoints, including usage examples, rate limits, and access requirements.
+- `CONTRIBUTING.md`: Outlines guidelines for contributing to the repository, including data submission, code additions, and documentation updates.
 - `LICENSE`: Describes the usage rights and restrictions associated with the repository's content.
 
 ### Features
