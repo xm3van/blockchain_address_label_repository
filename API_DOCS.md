@@ -39,7 +39,7 @@ This document provides detailed information about various APIs included in the `
 
 ---
 
-## Etherscan Ethereum Addresses Labels by Octart
+## Etherscan API Endpoint Description by Octart
 
 - **Size**: Not applicable (data is queried in real-time).
 - **Dimensions**: N/A
@@ -71,7 +71,7 @@ This document provides detailed information about various APIs included in the `
 
 ---
 
-## Nansen Ethereum Analysis API
+## Nansen API Endpoint Description
 - **Description**: Offers behavioural wallet labels based on the action this wallet has performed and proprietary labels for 20+ Blockchain.
 - **Size**: Not applicable (data queried in real-time).
 - **Dimensions**: N/A
