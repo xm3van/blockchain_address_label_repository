@@ -32,8 +32,8 @@ This document provides detailed information about various APIs included in the `
       "other_details": "..."
     },
       // Additional label details if applicable
-    }
-   ```
+    }```
+    
   - **Documentation**: Arkham API Access Documentation will be shared with API Key.
   - **Contact Information**: For API keys and support, fill this the form available in the [Arkham Intelligence Documentation](https://codex.arkhamintelligence.com/arkham-api).
 
