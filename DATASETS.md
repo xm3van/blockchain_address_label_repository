@@ -3,9 +3,6 @@
 This document lists and describes the datasets included in the `blockchain_address_label_repository`. It provides essential information about each dataset in a tabular format to facilitate ease of use for researchers and developers.
 
 ## Dataset Table
-# Datasets in Blockchain Address Label Repository
-
-## Dataset Table
 
 | Dataset Name                                | Source                                  | Author            | Description                                                              | Size    | Dimensions   | Columns Name                        | Type    | Format                 | Language | Year of Creation | Usage                                         | Original Dataset Reference |
 |---------------------------------------------|-----------------------------------------|-------------------|--------------------------------------------------------------------------|---------|--------------|-------------------------------------|---------|------------------------|----------|------------------|----------------------------------------------|----------------------------|
