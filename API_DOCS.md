@@ -105,7 +105,6 @@ This document provides detailed information about various APIs included in the `
   ```
 - **Sample Response:**
   ```json
-  Copy code
   {
     "id": "unique_identifier",
     "blockchain": "blockchain_name",
