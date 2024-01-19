@@ -86,4 +86,36 @@ This document provides detailed information about various APIs included in the `
   - **Documentation**: Detailed at [Nansen Query Documentation](https://docs.nansen.ai/api/api-overview).
   - **Contact Information**: N/A
   - **Note**: Labels can also be retrieved through their web app.
+ 
+---
+## WalletLabels API Endpoint Description
+
+- **Description:** The WalletLabels API offers comprehensive tools for labeling and analyzing blockchain wallet addresses. It provides detailed context and insights into blockchain transactions, aiding in categorization and risk assessment.
+- **Base URL**: https://api-c.walletlabels.xyz/
+- **Authentication**: Requires an API key for every request. There are currently no rate limits on API requests.
+- **Label Data Structure:** The response includes fields such as unique identifier, blockchain name, blockchain address, human-readable name for the address, broad category of the label, specific categorization under the label type, and a concise label or tag for the address.
+- **Supported Chains:** Multiple blockchains are supported, offering a wide range of analytics capabilities.
+- **Playground:** A live playground is available for testing different requests and seeing real-time responses.
+- **Access Requirements:** Registration is required to obtain an API key.
+- **Support and Community:** A Telegram community for support, discussions, and updates, along with a Twitter presence for the latest news.
+- **Additional Resources:** Direct links for API key registration and the WalletLabels home website are provided.
+- **Sample Call:**
+  ```
+  GET https://api-c.walletlabels.xyz/{endpoint}?key={API_KEY}
+  ```
+- **Sample Response:**
+  ```json
+  Copy code
+  {
+    "id": "unique_identifier",
+    "blockchain": "blockchain_name",
+    "address": "blockchain_address",
+    "name": "human-readable_name",
+    "category": "label_category",
+    "type": "label_type",
+    "tag": "concise_label"
+    // Additional details and labels if applicable
+  }
+  ```
+- **Documentation:** Complete documentation is available, detailing API usage instructions, endpoint descriptions, and more.
 
